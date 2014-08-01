@@ -3,12 +3,7 @@ layout: page
 title: About
 ---
 
-Some information about me!
-
-
-### More Information
-
-More information about me! Woohoo!
+There will be some information about me here. How exciting!
 
 
 ### Contact me. Or don't. Whatever. I don't care.
