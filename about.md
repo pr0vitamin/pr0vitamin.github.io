@@ -5,9 +5,11 @@ title: About
 
 Some information about me!
 
+
 ### More Information
 
 More information about me! Woohoo!
+
 
 ### Contact me. Or don't. Whatever. I don't care.
 
