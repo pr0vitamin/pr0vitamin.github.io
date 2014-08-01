@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+More information about me! Woohoo!
 
-### Contact me
+### Contact me. Or don't. Whatever. I don't care.
 
-[email@domain.com](mailto:email@domain.com)
+[jeremy@jeremyutting.com](mailto:jeremy@jeremyutting.com)
