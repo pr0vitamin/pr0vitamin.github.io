@@ -19,14 +19,14 @@ avatar: https://avatars2.githubusercontent.com/u/2509201?v=1&s=460
 footer-links:
   dribbble: 
   email: jeremy@jeremyutting.com
-  facebook: https://www.facebook.com/jeremy.utting
+  facebook: jeremy.utting
   flickr: 
-  github: https://github.com/pr0vitamin
-  instagram: https://instagram.com/omg_panda_bear
-  linkedin: https://www.linkedin.com/profile/view?id=225921851
+  github: pr0vitamin
+  instagram: omg_panda_bear
+  linkedin: 225921851
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: https://twitter.com/omg_panda_bear
+  twitter: omg_panda_bear
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: pr0vitamin
