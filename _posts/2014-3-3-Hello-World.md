@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is a thing!
+title: Hello, world!
 ---
 
-Woohoo! I am a post!
+This is a post! There will be more posts coming soon :)
