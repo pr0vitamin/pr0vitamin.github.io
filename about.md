@@ -11,4 +11,6 @@ When I'm not either cooking or eating, I'm making games, websites, inappropriate
 
 Feel free to contact me. Or don't. Whatever. I don't care.
 
+![Nectar of the Gods.](/images/infinite_whisky.gif)
+
 [jeremy@jeremyutting.com](mailto:jeremy@jeremyutting.com)
