@@ -7,6 +7,7 @@ Ok, so maybe that's a tad melodramatic, but bear with me ʕ•ᴥ•ʔ.
 
 You may notice that there's a banner on my site now, about this "net neutrality" thing.
 I'm not normally one to push my personal beliefs onto other people, but this is just so important that you need to know about it (although hopefully you're already aware of it).
+
 Net neutrality is the idea that all the traffic that passes over the internet should be treated equally. This is good, and a core part of the internet as we know it.
 It doesn't matter who you are, where you're from, or how much money you have, your traffic on the internet is treated the same as anyone elses. Neat, huh?
 
@@ -22,7 +23,9 @@ Sure it's a comedy segment, but he touches on some very real, and very important
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
 
-The FCC is still allowing comments from the public about their proposed changes to net neutrality, but only until September the 5th.
-If you don't agree with what they're doing, please take the time to let them know by either clicking on the banner, or going to: <a href="https://dearfcc.org/">https://dearfcc.org/</a>
+The FCC is still allowing comments from the public about their proposed changes to net neutrality, but only until September the 15th.
+If you don't agree with what they're doing, please take the time to let them know by either clicking on the banner, or going to:
+
+<a href="https://dearfcc.org/">https://dearfcc.org/</a>
 
 The internet thanks you.
