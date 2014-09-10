@@ -8,7 +8,7 @@ Ok, so maybe that's a tad melodramatic, but bear with me ʕ•ᴥ•ʔ.
 You may notice that there's a banner on my site now, about this "net neutrality" thing.
 I'm not normally one to push my personal beliefs onto other people, but this is just so important that you need to know about it (although hopefully you're already aware of it).
 
-Net neutrality is the idea that all the traffic that passes over the internet should be treated equally. This is good, and a core part of the internet as we know it.
+Net neutrality is the idea that all the traffic that passes over the internet should be treated equally. This is good, and an integral part of the internet as we know it.
 It doesn't matter who you are, where you're from, or how much money you have, your traffic on the internet is treated the same as anyone elses. Neat, huh?
 
 This idea has recently been threatened, when the FCC released some "proposed regulatory guidelines", back in May.
