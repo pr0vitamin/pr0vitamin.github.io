@@ -23,7 +23,7 @@ Sure it's a comedy segment, but he touches on some very real, and very important
 
 <iframe width="640" height="360" class="youtube-player" type="text/html" style="max-width:100%;" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
 
-The FCC is still allowing comments from the public about their proposed changes to net neutrality, but only until September the 15th.
+The FCC is still allowing comments from the public about their proposed changes to net neutrality, but only until <b>September the 15th</b>.
 If you don't agree with what they're doing, please take the time to let them know by either clicking on the banner, or going to:
 
 <a href="https://dearfcc.org/">https://dearfcc.org/</a>
