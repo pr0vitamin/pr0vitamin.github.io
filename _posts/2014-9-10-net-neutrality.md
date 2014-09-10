@@ -21,7 +21,7 @@ This inhibits innovation and competition, by creating a pay-wall, making it hard
 John Oliver recently ran a comedy segment on net neutrality, if you haven't already seen it, it's well worth a watch.
 Sure it's a comedy segment, but he touches on some very real, and very important issues.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" class="youtube-player" type="text/html" style="max-width:100%;" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
 
 The FCC is still allowing comments from the public about their proposed changes to net neutrality, but only until September the 15th.
 If you don't agree with what they're doing, please take the time to let them know by either clicking on the banner, or going to:
