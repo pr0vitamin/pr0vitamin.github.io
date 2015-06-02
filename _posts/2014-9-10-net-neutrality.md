@@ -5,7 +5,7 @@ title: Save the Internet!
 
 Ok, so maybe that's a tad melodramatic, but bear with me ʕ•ᴥ•ʔ.
 
-You may notice that there's a banner on my site now, about this "net neutrality" thing.
+You may notice that there's a banner on my site now, about this "net neutrality" thing (It's now been removed, but it used to be there).
 I'm not normally one to push my personal beliefs onto other people, but this is just <b>so</b> important that you need to know about it (although hopefully you're already aware of it).
 
 Today is Internet Slowdown Day. Lots of big sites like Reddit, Upworthy, and Pornhub are purposely slowing down their content (or at least giving the illusion of doing so), in protest of the FCC's propositions against net neutrality. Why would they do this to themselves? Well, what the FCC is proposing is kind of a big deal, and it effects all of us: content providers and consumers.
