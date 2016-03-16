@@ -13,4 +13,6 @@ When I'm not either cooking or eating, I'm making games, websites, inappropriate
 
 Feel free to contact me. Or don't. Whatever. I don't care.
 
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/apps/plugins/58921"></iframe>
+
 [jeremy@jeremyutting.com](mailto:jeremy@jeremyutting.com)
