@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-So yeah, I'm Jeremy.
-
-I like food a lot.
-
 When I'm not either cooking or eating, I'm making games, websites, inappropriate jokes, riding motorcycles, doing random software/hardware projects, drinking, or posting pictures of food and/or cats on instagram.
 
 I like curing and smoking delicious meats. Here's the realtime temperature and humidity of my curing chamber.
