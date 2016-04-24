@@ -5,8 +5,7 @@ title: About
 
 When I'm not either cooking or eating, I'm making games, websites, inappropriate jokes, riding motorcycles, doing random software/hardware projects, drinking, or posting pictures of food and/or cats on instagram.
 
-I like curing and smoking delicious meats. Here's the realtime temperature and humidity of my curing chamber.
-<iframe width="340" height="180" style="border: 1px solid #cccccc;" src="https://thingspeak.com/apps/plugins/58921"></iframe>
+I like curing and smoking delicious meats. I'll probably make a blog about that at some point.
 
 Feel free to contact me. Or don't. Whatever.
 
