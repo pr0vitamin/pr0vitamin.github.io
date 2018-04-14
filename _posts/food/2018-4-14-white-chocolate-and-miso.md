@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caramelised White Chocolate & Miso Ganache Recipe
+title: Caramelised White Chocolate & Miso Ganache
 food: food
 ---
 
@@ -10,10 +10,14 @@ _The Ganache does beautifully as a donut glaze, among other things!_
 It's white chocolate, but not as you know it.
 
 By caramelising white chocolate slowly in the oven, the regular single-note sweetness of white chocolate takes on some complex caramel and nutty flavours.
-But we're not stopping there. Add just a little bit of white Miso to that bad boy and you've got a one-way ticket to flavourtown¹.
+
+But we're not stopping there.
+
+Add just a little bit of white Miso to that bad boy and you've got a one-way ticket to flavourtown¹.
 The Miso adds a subtle savoury/salty note that completely elevates the chocolate, and will blow people's minds.
 
 You like salted caramel? Well this is salted caramel's older & sexier brother.
+
 Enough chit-chat, here's how to make it.
 
 # Caramelised White Chocolate & Miso Ganache
@@ -39,4 +43,4 @@ Makes a little over a cup (~300ml)
 
 At this point you can use it for anything you'd normally do with a ganache for: Chocolate fillings, donut/cake icings, eating with a spoon... Or if you want something more like a sauce, just keep whisking and adding cream until you reach the desired consistency.
 
-1. Flavortown is not a real place, sorry.
+¹Flavortown is not a real place.
