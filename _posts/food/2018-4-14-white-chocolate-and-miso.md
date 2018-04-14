@@ -20,6 +20,8 @@ You like salted caramel? Well this is salted caramel's older & sexier brother.
 
 Enough chit-chat, here's how to make it.
 
+***
+
 # Caramelised White Chocolate & Miso Ganache
 
 Makes a little over a cup (~300ml)
@@ -36,11 +38,13 @@ Makes a little over a cup (~300ml)
 2. Break up the white chocolate into small pieces, and place in a single layer on a small baking tray. Add the coconut oil now if you're using a low cocoa butter chocolate.
 3. Put the chocolate in the oven.
 4. Check on the chocolate every 10 minutes and give it a stir with a dry spatula. It should start slowly changing colour after about 20 minutes.
-5. If at any stage the chocolate looks too dry and starts seizing up, add a very small amount of coconut oil and stir it in. This should make the chocolate more liquid again.
+5. If at any stage the chocolate looks too dry and starts seizing up, add a very small amount of coconut oil and stir it in. This should make the chocolate more liquid.
 6. Cook for around 40 minutes, until it's looking a golden-brown colour. You can even go up to 60 minutes if you want a deeper caramel flavour.
 7. Transfer to a bowl, and use a whisk to stir in the miso paste, followed by the butter.
 8. While whisking, slowly pour in the cream. Continue whisking until a smooth and shiny ganache has formed.
 
-At this point you can use it for anything you'd normally do with a ganache for: Chocolate fillings, donut/cake icings, eating with a spoon... Or if you want something more like a sauce, just keep whisking and adding cream until you reach the desired consistency.
+***
+
+At this point you can use it for anything you'd normally do with a ganache: fillings, donut/cake icings, eating with a spoon... Or if you want something more like a sauce, just keep whisking and adding cream until you reach the desired consistency.
 
 ¹Flavortown is not a real place.
