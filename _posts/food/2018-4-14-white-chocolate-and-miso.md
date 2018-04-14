@@ -21,7 +21,6 @@ You like salted caramel? Well this is salted caramel's older & sexier brother.
 Enough chit-chat, here's how to make it.
 
 ***
-
 # Caramelised White Chocolate & Miso Ganache
 
 Makes a little over a cup (~300ml)
