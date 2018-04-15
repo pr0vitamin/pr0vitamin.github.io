@@ -34,7 +34,7 @@ Makes a little over a cup (~300ml)
 
 ### Method
 1. Preheat oven to 120C.
-2. Break up the white chocolate into small pieces, and place in a single layer on a small baking tray. Add the coconut oil now if you're using a low cocoa butter chocolate.
+2. Break up the white chocolate into small pieces, and place in a single layer on a small rimmed baking tray or dish. Add the coconut oil now if you're using a low cocoa butter chocolate.
 3. Put the chocolate in the oven.
 4. Check on the chocolate every 10 minutes and give it a stir with a dry spatula. It should start slowly changing colour after about 20 minutes.
 5. If at any stage the chocolate looks too dry and starts seizing up, add a very small amount of coconut oil and stir it in. This should make the chocolate more liquid.
